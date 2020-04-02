@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FILTERGRAPH>
-  <FILTER uid="1" x="0.91625" y="0.5141129032258065" DPIAware="">
+  <FILTER uid="1" x="0.87125" y="0.5342741935483871" DPIAware="">
     <PLUGIN name="Audio Input" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uid="246006c0" isInstrument="0"
             fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="64"
@@ -31,7 +31,7 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="3" x="0.91875" y="0.875" DPIAware="">
+  <FILTER uid="3" x="0.87" y="0.9495967741935484" DPIAware="">
     <PLUGIN name="Audio Output" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uid="724248cb" isInstrument="0"
             fileTime="0" infoUpdateTime="0" numInputs="64" numOutputs="0"
@@ -46,7 +46,7 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="4" x="0.24875" y="0.3588709677419355" DPIAware="">
+  <FILTER uid="4" x="0.25125" y="0.2862903225806452" DPIAware="">
     <PLUGIN name="Midi Output" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uid="ab3d5ae0" isInstrument="0"
             fileTime="0" infoUpdateTime="0" numInputs="0" numOutputs="0"
@@ -61,10 +61,10 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.15125" y="0.6955645161290323" DPIAware="">
-    <PLUGIN name="PFMProject0" format="VST3" category="Fx" manufacturer="yourcompany"
+  <FILTER uid="5" x="0.105" y="0.7439516129032258" DPIAware="">
+    <PLUGIN name="PFMProject0" format="VST3" category="Fx" manufacturer="pix_et_bel"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\PFMProject0.vst3"
-            uid="e95adaa3" isInstrument="0" fileTime="1713bb0d5b3" infoUpdateTime="1713bb1de31"
+            uid="e95adaa3" isInstrument="0" fileTime="1713bca55f3" infoUpdateTime="1713bcb1778"
             numInputs="2" numOutputs="2" isShell="0"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
     <LAYOUT>
